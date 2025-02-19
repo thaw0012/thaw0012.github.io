@@ -1,3 +1,7 @@
 body {
-    Font-size: 18px
+    Font-size: 18px;
+}
+
+header, footer {
+    background-color: aquamarine;
 }
