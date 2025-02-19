@@ -16,8 +16,10 @@ header, footer {
 
 ul li:nth-child(odd) {
     list-style: square;
+    background-color:pink;
 }
 
 ul li:nth-child(even) {
     list-style: square;
+    background-color:pink;
 }
