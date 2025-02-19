@@ -14,12 +14,11 @@ header, footer {
     box-shadow: 0px 2px 1px black;
 }
 
-ul li:nth-child(odd) {
-    list-style: square;
-    background-color:pink;
+.hobbies {
+    list-style-type: square;
 }
 
-ul li:nth-child(even) {
-    list-style: square;
+/* to use nth-child, you start with -n and plus the number of the section you want to select */
+.hobbies:nth-child(-n+2) {
     background-color:pink;
 }
