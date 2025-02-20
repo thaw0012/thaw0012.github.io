@@ -22,3 +22,18 @@ header, footer {
 .hobbies:nth-child(-n+2) {
     background-color:pink;
 }
+
+nav ul {
+    list-style-type: none;
+    background-color: lightyellow;
+    border-style: solid;
+}
+
+nav li {
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    background-color: red;
+    color: green;
+}
