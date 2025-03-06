@@ -55,23 +55,22 @@ body {
     margin-bottom: 50px;
     position: relative;
     bottom: -30px;
+    width: 95vw;
 }
 
 #yemail {
     margin-bottom: 50px;
     position: relative;
     bottom: -30px;
+    width: 95vw;
 }
 
 #ymessage {
     margin-bottom: 50px;   
     position: relative;
     bottom: -30px;
-
-}
-
-input text {
-    width: max-content;
+    width: 95vw;
+    height: 20vh;
 }
 
 #maybe {
