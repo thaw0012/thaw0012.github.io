@@ -13,6 +13,15 @@ header {
     font-size: 4rem;
 }
 
+nav ul {
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    width: 200px;
+}
+
 body {
     background-color: rgb(212,234,233); /* hex color #D4EAE9 */
 }
