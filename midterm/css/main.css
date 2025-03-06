@@ -20,6 +20,7 @@ nav ul {
 nav li {
     display: inline-block;
     width: 200px;
+    border-left: solid black 0.1rem;
 }
 
 a:link {
