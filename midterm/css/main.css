@@ -70,6 +70,10 @@ body {
 
 }
 
+input text {
+    width: max-content;
+}
+
 #maybe {
     margin-bottom: 20px;
 }
