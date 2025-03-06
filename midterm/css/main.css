@@ -3,7 +3,12 @@ html {
 }
 
 header {
-    color: white;
     background-image: url('../images/lone-starfish-wide.jpg');
-    text-align: center;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    color: white;
+    text-align: center;    
+    font-size: 4rem;
 }
