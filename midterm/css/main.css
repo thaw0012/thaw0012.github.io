@@ -53,21 +53,23 @@ body {
 
 #yname {
     margin-top: 10px;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     position: relative;
     bottom: -30px;
     width: 90vw;
 }
 
 #yemail {
-    margin-bottom: 50px;
+    margin-top: 10px;
+    margin-bottom: 40px;
     position: relative;
     bottom: -30px;
     width: 90vw;
 }
 
 #ymessage {
-    margin-bottom: 50px;   
+    margin-top: 10px;
+    margin-bottom: 40px;   
     position: relative;
     bottom: -30px;
     width: 90vw;
