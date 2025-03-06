@@ -52,15 +52,22 @@ body {
 
 #yname {
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 50px;
+    position: relative;
+    bottom: -30px;
 }
 
 #yemail {
-    margin-bottom: 10px;
+    margin-bottom: 50px;
+    position: relative;
+    bottom: -30px;
 }
 
 #ymessage {
-    margin-bottom: 10px;
+    margin-bottom: 50px;   
+    position: relative;
+    bottom: -30px;
+
 }
 
 #maybe {
