@@ -1,3 +1,7 @@
+html {
+    font-family: Arial, sans-serif;
+}
+
 header {
     color: white;
     background-image: url('../images/lone-starfish-wide.jpg');
