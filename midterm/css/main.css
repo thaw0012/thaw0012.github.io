@@ -34,3 +34,7 @@ body {
     float: left;
     margin: 20px;
 }
+
+footer {
+    text-align: right;
+}
