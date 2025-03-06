@@ -12,3 +12,8 @@ header {
     text-align: center;    
     font-size: 4rem;
 }
+
+body {
+    background-color: rgb(212,234,233); 
+    /* hex color #D4EAE9 */
+}
