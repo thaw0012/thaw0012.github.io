@@ -78,3 +78,11 @@ a:active {
 @media screen and (min-width: 760px) {
 
 }
+
+footer {
+    background-color: #222;
+}
+
+footer p {
+    color: #c78c06;
+}
