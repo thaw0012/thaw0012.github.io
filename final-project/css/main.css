@@ -2,6 +2,10 @@ body {
     font-family: open sans;
 }
 
+header {
+    background-color: #c78c06;
+}
+
 @media screen and (max-width: 1200px) {
 
 }
