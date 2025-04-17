@@ -6,6 +6,15 @@ header {
     background-color: #c78c06;
 }
 
+nav ul {
+    text-align: center;
+}
+
+.fa-solid {
+    color: #222;
+    /* not showing up */
+}
+
 .aboutus {
     background-color: #ffe6ac;
 }
