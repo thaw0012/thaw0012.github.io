@@ -2,12 +2,36 @@ body {
     font-family: open sans;
 }
 
+/* .home { */
+    /* background-color: #ffe6ac; */
+/* } */
+
 header {
-    background-color: #c78c06;
+    background-color: #222;
 }
 
 nav ul {
     text-align: center;
+}
+
+/* beginning of nav edits */
+a:link {
+    text-decoration: none;
+    color: #c78c06;
+}
+
+a:visited {
+    color: #c78c06;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #222;
+    background-color: #c78c06;
+}
+
+a:active {
+    color: #c78c06;
 }
 
 .fa-solid {
