@@ -2,12 +2,12 @@ body {
     font-family: open sans;
 }
 
-/* .home { */
-    /* background-color: #ffe6ac; */
-/* } */
-
 header {
     background-color: #222;
+
+    div {
+        padding: 20px;
+    }
 }
 
 nav ul {
