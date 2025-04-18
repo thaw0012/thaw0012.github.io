@@ -105,6 +105,26 @@ a:active {
 
 .marketing {
     background-color: #ffe6ac;
+    padding: 20px;
+}
+
+.marketing h3 {
+    text-align: left;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.marketing p {
+    padding: 20px;
+}
+
+.marketing button {
+    color: white;
+    font-size: 30px;
+    width: 280px;
+    background-color: #222;
+    padding: 20px;
 }
 
 .videoprod {
