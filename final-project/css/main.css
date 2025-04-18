@@ -199,12 +199,90 @@ a:active {
     padding: 20px;
 }
 
-.john {
+/* .ourvision {
+    padding: 20px;
+    text-align: left;
+    text-transform: none;
+    color: none;
+    background-image: url("images/vision.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+.ourvision h3 {
+    text-align: left;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.ourvision p {
+    padding: 20px;
+}
+
+.ourvision button {
+    color: white;
+    font-size: 25px;
+    width: 280px;
+    background-color: #222;
+    padding: 20px;
+}
+
+/* come back and fix^ */
+
+.team {
+    text-align: left;
+    font-size: 55px;
+    font-weight: bold;
+    padding: 30px;
+}
+
+.john h3 {
     background-color: #ffe6ac;
+    text-align: left;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.john h4 {
+    /* border-bottom: solid; */
+    background-color: #ffe6ac;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.john p {
+    background-color: #ffe6ac;
+    padding: 20px;
 }
 
 .bob {
     background-color: #ffe6ac;
+}
+
+.bob h3 {
+    background-color: #ffe6ac;
+    text-align: left;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.bob h4 {
+    /* border-bottom: solid; */
+    background-color: #ffe6ac;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.bob p {
+    background-color: #ffe6ac;
+    padding: 20px;
 }
 
 @media screen and (max-width: 1200px) {
