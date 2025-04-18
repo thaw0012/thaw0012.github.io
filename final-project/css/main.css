@@ -380,7 +380,7 @@ a:active {
         display: flex;
         flex-direction: row;
     }
-
+/* flexbox start */
     nav ul {
         display: flex;
         flex-direction: row;
@@ -389,7 +389,7 @@ a:active {
     nav li {
         padding: 60px;
     }
-
+/* grid start */
     .john {
         display: grid;
         grid-template-columns: 1fr 1fr;
