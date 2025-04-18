@@ -201,16 +201,6 @@ a:active {
     padding: 20px;
 }
 
-/* .ourvision {
-    padding: 20px;
-    text-align: left;
-    text-transform: none;
-    color: none;
-    background-image: url("images/vision.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-} */
-
 .ourvision h3 {
     text-align: left;
     font-size: 40px;
@@ -229,8 +219,6 @@ a:active {
     background-color: #222;
     padding: 20px;
 }
-
-/* come back and fix^ */
 
 .team {
     text-align: left;
