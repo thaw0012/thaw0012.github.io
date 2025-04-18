@@ -43,8 +43,6 @@ a:active {
     background-color: rgba(0, 0, 0, 0.7);
     background-size: cover;
     padding: 20px;
-    /* background-image: url("images/main-banner.jpg"); */
-    /* background-repeat: no-repeat; */
 }
 
 .home h1 {
