@@ -35,6 +35,8 @@ a:active {
 }
 
 .home {
+    /* background-image: url("images/main-banner.jpg"); */
+    display: grid;
     color: white;
     background-color: rgba(0, 0, 0, 0.7);
     background-size: cover;
@@ -51,6 +53,9 @@ a:active {
     }
 
     button {
+        font-size: 20px;
+        width: 200px;
+        background-color: #c78c06;
         padding: 20px;
     }
 }
