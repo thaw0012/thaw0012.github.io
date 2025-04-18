@@ -336,6 +336,29 @@ a:active {
     padding: 5px;
 }
 
+.hours h3 {
+    text-align: left;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.hours table {
+    width: 760px;
+    font-size: 20px;
+    border: solid 0.1rem;
+}
+
+.hours th {
+    background: #ffe6ac;
+}
+
+ th, td {
+    width: 760px;
+    border: solid 0.1rem;
+    padding: 20px;
+}
+
 @media screen and (max-width: 1200px) {
 
 }
