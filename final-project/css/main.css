@@ -285,6 +285,57 @@ a:active {
     padding: 20px;
 }
 
+#contact {
+    text-align: left;
+    font-size: 55px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.learn-more h3 {
+    text-align: left;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.learn-more {
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+#fname {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    position: relative;
+    bottom: -30px;
+    width: 90vw;
+}
+
+#yemail {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    position: relative;
+    bottom: -30px;
+    width: 90vw;
+}
+
+#ymessage {
+    margin-top: 10px;
+    margin-bottom: 40px;   
+    position: relative;
+    bottom: -30px;
+    width: 90vw;
+    height: 20vh;
+}
+
+.learn-more button {
+    color: #c78c06;
+    background-color: #222;
+    font-size: 20px;
+    padding: 5px;
+}
+
 @media screen and (max-width: 1200px) {
 
 }
