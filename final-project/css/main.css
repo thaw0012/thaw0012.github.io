@@ -35,12 +35,12 @@ a:active {
 }
 
 .home {
-    /* background-image: url("images/main-banner.jpg"); */
-    display: grid;
     color: white;
     background-color: rgba(0, 0, 0, 0.7);
     background-size: cover;
     padding: 20px;
+    /* background-image: url("images/main-banner.jpg"); */
+    /* background-repeat: no-repeat; */
 
     h1 {
         font-size: 80px;
@@ -62,6 +62,14 @@ a:active {
 
 .aboutus {
     background-color: #ffe6ac;
+    padding: 30px;
+
+    h2 {
+        text-align: left;
+        font-size: 60px;
+        font-weight: bold;
+        padding: 30px;
+    }
 }
 
 .digitaltrans {
