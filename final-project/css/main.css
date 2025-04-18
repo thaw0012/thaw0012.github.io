@@ -276,7 +276,6 @@ a:active {
 }
 
 .bob h4 {
-    /* border-bottom: solid; */
     background-color: #ffe6ac;
     text-align: left;
     font-size: 20px;
@@ -375,8 +374,33 @@ a:active {
     height: 500px;
 }
 
+/* start of desktop */
 @media screen and (min-width: 760px) {
+    header {
+        display: flex;
+        flex-direction: row;
+    }
 
+    nav ul {
+        display: flex;
+        flex-direction: row;
+    }
+
+    nav li {
+        padding: 60px;
+    }
+
+    .john {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        align-items: start;
+    }
+
+    .bob {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        align-items: start;
+    }
 }
 
 footer {
