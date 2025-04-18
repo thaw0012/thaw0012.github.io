@@ -27,10 +27,10 @@ a:visited {
     color: #c78c06;
 }
 
-a:hover {
-    text-decoration: none;
+a:hover, a:focus {
     color: #222;
     background-color: #c78c06;
+    padding: 20px;
 }
 
 a:active {
@@ -373,10 +373,6 @@ a:active {
 .map {
     width: 100%;
     height: 500px;
-}
-
-@media screen and (max-width: 1200px) {
-
 }
 
 @media screen and (min-width: 760px) {
